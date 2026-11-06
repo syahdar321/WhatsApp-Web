@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WhatsWeb</string>
+    <string name="title_direct_chat">Kirim Pesan Cepat</string>
+    <string name="title_guide">Panduan Tautkan Akun</string>
+    <string name="title_settings">Pengaturan</string>
+    <string name="btn_reload">Muat Ulang</string>
+    <string name="btn_desktop_mode">Mode Desktop</string>
+    <string name="btn_mobile_mode">Mode Seluler</string>
+    <string name="btn_zoom_in">Perbesar</string>
+    <string name="btn_zoom_out">Perkecil</string>
+    <string name="btn_reset_zoom">Reset Zoom</string>
+    <string name="btn_clear_cache">Hapus Cache &amp; Sesi</string>
+    <string name="msg_cache_cleared">Data cache dan sesi telah dibersihkan</string>
+    <string name="btn_exit_confirm">Keluar</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="dialog_exit_title">Keluar dari WhatsWeb?</string>
+    <string name="dialog_exit_message">Apakah Anda ingin keluar dari aplikasi WhatsWeb?</string>
+    <string name="direct_chat_phone_hint">Nomor telepon (misal: 81234567890)</string>
+    <string name="direct_chat_country_code">Kode Negara</string>
+    <string name="direct_chat_message_hint">Tulis pesan awal (opsional)...</string>
+    <string name="btn_open_chat">Buka Chat Langsung</string>
+    <string name="offline_title">Gagal Terhubung</string>
+    <string name="offline_desc">Periksa koneksi internet Anda untuk memuat WhatsApp Web.</string>
+    <string name="btn_retry">Coba Lagi</string>
+    <string name="loading_whatsapp">Memuat WhatsApp Web…</string>
+</resources>

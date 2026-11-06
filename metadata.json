@@ -1,0 +1,6 @@
+{
+  "name": "WhatsWeb",
+  "description": "Aplikasi WhatsApp Web companion untuk Android dengan mode desktop, kirim pesan cepat, dan utilitas chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
